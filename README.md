@@ -3,10 +3,12 @@ The topics are: <br />
 <ol>
 <li>
  Feature Transformation 
+    <ol>
     <li>Missing values imputation (binning, handling mixed data, handling data time in data, handling missing data, imputation mean median) </li>
     <li>Handling Categorical values (one hot encoding, ordinal encoding, machine learning pipeline, function transformer, power transformer)</li>
     <li>Outlier Detection (Z-score, IQR method, percentile method) </li>
     <li>Feature Scaling (standardization, mixmax Scaling) </li>
+    </ol>
 </li>
 <li>
    Feature Construction (feature construction and splitting) </li>
